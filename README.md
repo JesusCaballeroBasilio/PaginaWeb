@@ -1,2 +1,2 @@
-# PaginaWeb
-Es la pagina web individual para el laboratorio
+# ad-l4
+AD-07-1 The blog Site - Group
