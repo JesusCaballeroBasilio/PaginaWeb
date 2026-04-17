@@ -2,4 +2,64 @@ html {
     height: 100%;
     width: 100%;
   }
-  
+
+body {
+  margin: 0;
+  padding-top: 80px;
+}
+
+.contenido {
+  padding: 20px;
+}
+
+.post {
+  max-width: 800px;
+  margin: auto;
+}
+.navbar {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  background-color: #333;
+  color: white;
+  padding: 15px;
+}
+
+.navbar ul {
+  list-style: none;
+  display: flex;
+  gap: 20px;
+}
+
+.navbar a {
+  color: white;
+  text-decoration: none;
+}
+
+.imagenbebe img{
+  width: 300px;
+}
+
+.imagenbebe2 img{
+  width: 300px;
+  height: 250px;
+}
+
+.imagenocurrente img{
+  width: 300px;
+  height: 300px;
+}
+
+/*footer*/
+.footer {
+  background-color: #222;
+  color: white;
+  text-align: center;
+  padding: 20px;
+  margin-top: 50px;
+  font-size: 14px;
+}
+
+.footer p {
+  margin: 5px 0;
+}
